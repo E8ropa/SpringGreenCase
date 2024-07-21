@@ -32,6 +32,7 @@
 ## Доп материалы
 
 Фото таблицы в pgAdmin
+
 ![image](https://github.com/user-attachments/assets/74601d23-f7a9-41b7-849e-b87b8c82e696)
 
 
