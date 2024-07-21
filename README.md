@@ -16,12 +16,17 @@
 
 ## Проверка работы
 
+Для начала необходимо запустить SpringGreenCaseApplication. Запустится сервер с портом 8080.
+
 ### Метод POST
-Вносится файл testtext.txt
+Используя URL http://localhost:8080/file/upload
+Вносится файл testtext.txt в Body запроса.
 Его информация записывается в PostgreSQL, на вывод выводится File ID
 ![image](https://github.com/user-attachments/assets/cf0f7b5b-ce9d-47ff-bad5-4ef92e380ec0)
 
 ### Метод GET
+
+Используя URL http://localhost:8080/file/getFile можно вывести список файлов с аттрибутами
 
 Если не указывать ID, то выводится список всех файлов
 ![image](https://github.com/user-attachments/assets/dc18548d-61d8-4949-81d5-5cd714437da8)
