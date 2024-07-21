@@ -29,6 +29,12 @@
 Если указать ID, то на выводе будет файл и его аттрибуты по выбранному ID.
 ![image](https://github.com/user-attachments/assets/a89c6eda-191c-4e1a-b1bd-ffa1a3b13440)
 
+## Доп материалы
+
+Фото таблицы в pgAdmin
+![image](https://github.com/user-attachments/assets/74601d23-f7a9-41b7-849e-b87b8c82e696)
+
+
 
 
 
